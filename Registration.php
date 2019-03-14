@@ -22,7 +22,7 @@ else{
 
 
 ?>
-<h1  align="center">Registration Form</h1>
+<h1  align="center">login Form</h1>
 <table align="center">
 <form method="post" action="#">
 <tr><th>
